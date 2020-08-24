@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Chanho Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "I am Engineer, Programmer and Researcher"
   location         : "South Korea"
-  email            :
+  email            : "pch8793@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "pch8793@gmail.com"
+      # url: "pch8793@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
